@@ -1,0 +1,7 @@
+#
+# robots.txt for https://tylersmusic.com/
+#
+
+# Disallow all agents and all file paths
+User-agent: *
+Disallow: /
